@@ -23,13 +23,14 @@ code {
 
 // Codeblock Theme
 pre.highlight, pre {
-  margin: 0 -27px;
+  // margin: 0 -27px;
+  margin: 0 0;
   @include media-query($on-mobile) {
     margin: 0 calc(51% - 51vw);
     padding-left: 20px;
   }
   border: 1px solid rgba(128,128,128,0.1);
-  background-color: #f7f7f7;
+  background-color: #777777;
   border-radius: 2px;
   padding: 10px;
   display: block;
