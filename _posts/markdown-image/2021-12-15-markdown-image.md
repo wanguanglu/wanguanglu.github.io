@@ -9,7 +9,7 @@ categories:
 
 在Markdown中可以通过如下语法插入图片。
 
-```
+```markdown
 ![](/assets/img/markdown-image/080103_hakkai_fuji.jpg)
 ```
 
@@ -21,7 +21,7 @@ categories:
 
 不过如果要调整图片的大小和对齐方式，Markdown的语法就不太支持，此时需要内嵌html标签来调整。
 
-```
+```html
 <figure>
 <img src="/assets/img/markdown-image/080103_hakkai_fuji.jpg" width="10%" height="10%">
 </figure>
