@@ -21,10 +21,10 @@ author:
   avatar: /assets/img/panda.jpeg # change with your own avatar
 
 # URL settings
-url: "https://wanguanglu.github.io" #
+url: "https://wanguanglu.github.io"
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: 296931058
 fb_appid:
 
 # Collection setting
