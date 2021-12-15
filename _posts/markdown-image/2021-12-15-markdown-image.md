@@ -27,5 +27,20 @@ categories:
 </figure>
 ```
 
-<img src="/assets/img/markdown-image/080103_hakkai_fuji.jpg" width="10%" height="10%">
+<figure>
+  <img src="/assets/img/markdown-image/080103_hakkai_fuji.jpg" width="10%" height="10%">
+</figure>
 
+
+
+调整对齐方式为居中对齐
+
+```html
+<figure>
+<img src="/assets/img/markdown-image/080103_hakkai_fuji.jpg" width="10%" height="10%" align="center">
+</figure>
+```
+
+<figure>
+<img src="/assets/img/markdown-image/080103_hakkai_fuji.jpg" width="10%" height="10%" align="center">
+</figure>
