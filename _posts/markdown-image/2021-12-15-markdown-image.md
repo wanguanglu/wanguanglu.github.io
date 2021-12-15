@@ -33,7 +33,7 @@ categories:
 
 
 
-调整对齐方式为居中对齐
+调整对齐方式为左对齐
 
 ```html
 <figure>
