@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World"
+title:  "Markdown中调整图片的大小和位置"
 date:   2021-12-15 09:29:20 +0800
 categories: 
 ---
@@ -27,3 +27,4 @@ categories:
 ```
 
 <img src="https://wanguanglu.github.io/markdown-image/080103_hakkai_fuji.jpg" width="10%" height="10%">
+
