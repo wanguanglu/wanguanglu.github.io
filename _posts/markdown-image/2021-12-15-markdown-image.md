@@ -37,10 +37,10 @@ categories:
 
 ```html
 <figure>
-<img src="/assets/img/markdown-image/080103_hakkai_fuji.jpg" width="10%" height="10%" align="center">
+<img src="/assets/img/markdown-image/080103_hakkai_fuji.jpg" width="10%" height="10%" align="left">
 </figure>
 ```
 
 <figure>
-<img src="/assets/img/markdown-image/080103_hakkai_fuji.jpg" width="10%" height="10%" align="center">
+<img src="/assets/img/markdown-image/080103_hakkai_fuji.jpg" width="10%" height="10%" align="left">
 </figure>
