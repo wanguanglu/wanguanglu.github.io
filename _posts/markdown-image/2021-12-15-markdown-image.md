@@ -10,22 +10,22 @@ categories:
 在Markdown中可以通过如下语法插入图片。
 
 ```markdown
-![](https://lmg.jj20.com/up/allimg/512/011212125536/120112125536-2-1200.jpg)
+![](/assets/img/markdown-image/snow.jpeg)
 ```
 
-![](https://lmg.jj20.com/up/allimg/512/011212125536/120112125536-2-1200.jpg)
+![](/assets/img/markdown-image/snow.jpeg)
 
 
 不过如果要调整图片的大小和对齐方式，Markdown的语法就不太支持，此时需要内嵌html标签来调整。
 
 ```html
 <figure>
-<img src="https://lmg.jj20.com/up/allimg/512/011212125536/120112125536-2-1200.jpg" width="10%" height="10%">
+<img src="/assets/img/markdown-image/snow.jpeg" width="10%" height="10%">
 </figure>
 ```
 
 <figure>
-  <img src="https://lmg.jj20.com/up/allimg/512/011212125536/120112125536-2-1200.jpg" width="10%" height="10%">
+  <img src="/assets/img/markdown-image/snow.jpeg" width="10%" height="10%">
 </figure>
 
 
@@ -34,10 +34,11 @@ categories:
 
 ```html
 <figure>
-<img src="https://lmg.jj20.com/up/allimg/512/011212125536/120112125536-2-1200.jpg" width="10%" height="10%" align="left">
+<img src="/assets/img/markdown-image/snow.jpeg" width="10%" height="10%" align="left">
 </figure>
 ```
 
 <figure>
-<img src="https://lmg.jj20.com/up/allimg/512/011212125536/120112125536-2-1200.jpg" width="10%" height="10%" align="left">
+<img src="/assets/img/markdown-image/snow.jpeg" width="10%" height="10%" align="left">
 </figure>
+
