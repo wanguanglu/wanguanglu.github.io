@@ -2,6 +2,7 @@
 layout: post
 title:  "Markdown中调整图片的大小和位置"
 date:   2021-12-15 09:29:20 +0800
+google_analytics: true
 categories: 
 ---
 
