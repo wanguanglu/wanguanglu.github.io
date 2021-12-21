@@ -3,6 +3,7 @@ title: 万广鲁
 permalink: /about/
 layout: page
 excerpt: 
+google_analytics: true
 comments: false
 ---
 
